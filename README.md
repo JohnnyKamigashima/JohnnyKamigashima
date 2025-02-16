@@ -3,15 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnnykamigashima&label=Profile%20views&color=0e75b6&style=flat" alt="johnnykamigashima" /> </p>
 
-- 🔭 I’m currently working on project [Text compare](https://github.com/JohnnyKamigashima/Calculadoras-Producao)
-
-- 🌱 I’m currently learning **Software Quality Testing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JohnnyKamigashima](https://github.com/JohnnyKamigashima)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/kamigashima/](https://www.linkedin.com/in/kamigashima/)
 
-- 💬 Ask me about **PHP, JS, Python, Ruby, Photoshop**
+- 💬 Ask me about ** JS, Photoshop**
 
 - 📫 How to reach me **johnny@jhk.app**
 
