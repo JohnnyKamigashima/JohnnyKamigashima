@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johnny Kamigashima</h1>
-<h3 align="center">Sou um estudante de Testes de Software e futuro QA. Gosto de programasr em PHP, JS, Python, Ruby.</h3>
+<h3 align="center">Sou um analista de qualidade de Software. Gosto de programasr em TypeScript e Python.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnnykamigashima&label=Profile%20views&color=0e75b6&style=flat" alt="johnnykamigashima" /> </p>
 
